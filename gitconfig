@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = info@ventra.com.co
-	name = Gonzalo Diaz
+	email = gonzalo@hoxton-digital.com
+	name = gonzalodiaz
